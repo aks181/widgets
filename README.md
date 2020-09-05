@@ -1,3 +1,19 @@
+<h3>Points to learn</h3>
+<ol>
+  <li>React Hooks
+  <ul>
+    <li>Accordion- useState</li>
+    <li>Search- useState, useEffect</li>
+    <li>Dropdown- useState, useEffect, useRef</li>
+    <li>Translate- useState, useEffect</li>
+  </ul></li>
+  <li>Navigation without react router</li>
+  <li>Event Bubbling</li>
+  <li>Delayed Search and useEffect Cleanup</li>
+  <li>XSS attacks</li>
+</ol>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
